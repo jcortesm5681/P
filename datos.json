@@ -10,13 +10,11 @@
     },
     {
       "texto": "spotify"
-    },",
       "imagen": "imgs/sp.png",
       "alt": "spotify",
       "link": "https://www.spotify.com/"
     },
-    
-	{
+    {
       "texto": "Mercado Libre",
       "imagen": "imgs/meli.png",
       "alt": "Meli",
