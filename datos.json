@@ -1,0 +1,49 @@
+{
+  "filas": 3,
+  "columnas": 7,
+  "contenido": [
+    {
+      "texto": "web.whatsapp",
+      "imagen": "imgs/ww.png",
+      "alt": "web.whatsapp",
+      "link": "https://web.whatsapp.com/"
+    },
+    {
+      "texto": "spotify"
+    },",
+      "imagen": "imgs/sp.png",
+      "alt": "spotify",
+      "link": "https://www.spotify.com/"
+    },
+    
+	{
+      "texto": "Mercado Libre",
+      "imagen": "imgs/meli.png",
+      "alt": "Meli",
+      "link": "https://www.mercadolibre.com.co/#"
+    },
+	{
+      "texto": "Amazon",
+      "imagen": "imgs/am.png",
+      "alt": "Amazon",
+      "link": "https://www.amazon.com/"
+    },
+    {
+      "texto": "Noticias - BBC News Mundo",
+      "imagen": "imgs/bbc.png",
+      "alt": "BBC",
+      "link": "https://www.bbc.com/mundo"
+    },
+    {
+      "texto": "VIU,
+      "imagen": "imgs/viu.png",
+      "alt": "VIU",
+      "link": "https://oncampus.universidadviu.com/acceder"
+    }
+     
+
+
+
+    
+  ]
+}
